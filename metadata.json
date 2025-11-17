@@ -1,0 +1,5 @@
+{
+  "name": "AI Realistic Image Generator",
+  "description": "A web application to generate and edit ultra-realistic images using AI. Users can submit text prompts to create new images, and then further refine them with editing prompts. All generated images can be downloaded.",
+  "requestFramePermissions": []
+}
